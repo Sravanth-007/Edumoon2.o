@@ -10,7 +10,7 @@ import  Header from './components/header';
  import  Footer from './components/footer';
  //import 'bootstrap/dist/css/bootstrap.min.css';
 //  import './components/style.css';
-//  import './components/about.css';
+  import './components/about.css';
   import ImageSlider from './components/ImageSlider';
  import { SliderData } from './components/SliderData';
  import uuid from 'uuid';
