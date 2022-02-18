@@ -10,7 +10,7 @@ import  Testimonial from './testimonial';
 import  Grid from './grid';
 import  Footer from './footer';
 //import 'bootstrap/dist/css/bootstrap.min.css';
-import './style.css';
+//import './style.css';
  import ImageSlider from './ImageSlider';
 import { SliderData } from './SliderData';
 import uuid from 'uuid';
