@@ -9,7 +9,7 @@ import  Header from './components/header';
  import  Grid from './components/grid';
  import  Footer from './components/footer';
  //import 'bootstrap/dist/css/bootstrap.min.css';
-//  import './components/style.css';
+ import './components/style.css';
   import './components/about.css';
   import ImageSlider from './components/ImageSlider';
  import { SliderData } from './components/SliderData';
