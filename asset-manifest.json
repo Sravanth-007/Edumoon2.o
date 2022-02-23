@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Edumoon2.o/static/css/main.205da895.css",
-    "main.js": "/Edumoon2.o/static/js/main.c31c8ce1.js",
+    "main.js": "/Edumoon2.o/static/js/main.8ea8968c.js",
     "static/js/787.8d5e4315.chunk.js": "/Edumoon2.o/static/js/787.8d5e4315.chunk.js",
     "index.html": "/Edumoon2.o/index.html",
     "main.205da895.css.map": "/Edumoon2.o/static/css/main.205da895.css.map",
-    "main.c31c8ce1.js.map": "/Edumoon2.o/static/js/main.c31c8ce1.js.map",
+    "main.8ea8968c.js.map": "/Edumoon2.o/static/js/main.8ea8968c.js.map",
     "787.8d5e4315.chunk.js.map": "/Edumoon2.o/static/js/787.8d5e4315.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.205da895.css",
-    "static/js/main.c31c8ce1.js"
+    "static/js/main.8ea8968c.js"
   ]
 }
